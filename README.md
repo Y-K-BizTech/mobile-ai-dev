@@ -1,2 +1,2 @@
 # mobile-ai-dev
-mobile-ai-dev
+スマホからAI開発
